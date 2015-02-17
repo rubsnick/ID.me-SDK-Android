@@ -483,7 +483,7 @@ Another aspect of the SDK is to scan and parse the information of dozens of phys
 
 The following barcode is found the above-mentioned credentials. The scanner is fine-tuned to scan this specific bardocde:
 
-![Barcode](https://raw.githubusercontent.com/IDme/ID.me-Verify-SDK-iOS-Internal/master/readmeSampleBarcode.png?token=ADw23sZn-MXDfMZ1pfYrl7AY_fqmxm56ks5UvWE5wA%3D%3D)
+![Barcode](Screenshots/readmeSampleBarcode.png)
 
 The user is taught to scan this type of barcode on the first launch of the credential scanner. A help button is added to the main screen of the scanner, allowing the user to reference this information on the subsdequent launches of the scanner.
 
